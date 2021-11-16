@@ -1,4 +1,5 @@
-### Hi 👋 I am Senior Java Engineer (❁´◡`❁)
+### Hi 👋 Senior Java Engineer (❁´◡`❁) ![CockMyCockGIF](https://user-images.githubusercontent.com/3343809/142038027-f6d77076-8ac9-4fe3-88ac-ed787b406a69.gif)
+
 
 <!--
 **yvikentiev/yvikentiev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
