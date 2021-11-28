@@ -1,4 +1,4 @@
-### Hi 👋 Senior Java Engineer (❁´◡`❁) ![CockMyCockGIF]
+### Hi 👋 Senior Java Engineer (❁´◡`❁) ![]
 
 
 <!--
