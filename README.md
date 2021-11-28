@@ -1,4 +1,4 @@
-### Hi 👋 Senior Java Engineer (❁´◡`❁) ![CockMyCockGIF](https://user-images.githubusercontent.com/3343809/142038027-f6d77076-8ac9-4fe3-88ac-ed787b406a69.gif)
+### Hi 👋 Senior Java Engineer (❁´◡`❁) ![CockMyCockGIF]
 
 
 <!--
